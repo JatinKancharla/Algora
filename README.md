@@ -6,4 +6,4 @@
 * **Linear Data Structures:** Stack, Queue, and Linked Lists
 * **Non-Linear Data Structures:** Trees and Graphs
 * **Core Algorithms:** Searching and Sorting techniques with step-by-step breakdowns
-* **Custom Input Testing:** Enter your own datasets and edge cases to see exactly how each algorithm handles them
+* **Custom Input Testing:** Enter your own inputs and edge cases to see exactly how each algorithm handles them
